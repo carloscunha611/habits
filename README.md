@@ -29,6 +29,6 @@
     <img src="./assets/meuLogo.png" alt="Meu Portfólio">
   </a>
   <a href="https://carloscunha611.github.io/halo-masterChiefCollection/">
-    <img src="./assets/logo1.png" alt="Link do Projeto" width="50">
+    <img src="./assets/logo.svg" alt="Link do Projeto" width="50">
   </a>
 </div>
